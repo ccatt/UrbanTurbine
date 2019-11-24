@@ -61,7 +61,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -160,6 +160,23 @@ DocumentUniqueId=XTHOLNFE
 DocumentPath=sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
+AnnotationIndexControlEnabled=1
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AUMMEREK
+
+[Document9]
+DocumentPath=urbanturbine.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
@@ -171,7 +188,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=AUMMEREK
+DocumentUniqueId=UMRSNBUO
 
 [Configuration1]
 Name=Default Configuration
