@@ -106,6 +106,23 @@ GenerateClassCluster=0
 DocumentUniqueId=GNYWLEEW
 
 [Document5]
+DocumentPath=..\..\..\Capstone\UrbanTurbine\UrbanTurbine\ATMEGA328-PU.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YGYFNVIH
+
+[Document6]
 DocumentPath=Miscellaneous Connectors.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document7]
 DocumentPath=Miscellaneous Devices.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document8]
 DocumentPath=Additional Components\Jason_PCB Library.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BDMGFDAL
 
-[Document8]
+[Document9]
 DocumentPath=Additional Components\Jason_SCH Library.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XTHOLNFE
 
-[Document9]
+[Document10]
 DocumentPath=sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AUMMEREK
 
-[Document10]
+[Document11]
 DocumentPath=urbanturbine_rev3.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XOKMRTCH
 
-[Document11]
+[Document12]
 DocumentPath=displays.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NTMUMXPL
 
-[Document12]
+[Document13]
 DocumentPath=urbanturbine_rev4.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,67 +258,92 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FKCMRUSS
 
+[Document14]
+DocumentPath=urbanturbine_rev5.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EFPSXUEL
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for UrbanTurbinePCB\Design Rule Check - urbanturbine_rev3.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.DRR
+DocumentPath=Project Outputs for UrbanTurbinePCB\Design Rule Check - urbanturbine_rev4.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.EXTREP
+DocumentPath=Project Outputs for UrbanTurbinePCB\Design Rule Check - urbanturbine_rev5.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.GBL
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.GBO
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.GBS
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.GKO
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.GM1
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.GM7
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.GTL
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.GTO
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.GM7
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.GTS
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.LDP
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.REP
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.RUL
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.REP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
 DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine.TXT
 DItemRevisionGUID=
 
