@@ -326,6 +326,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NMWSPJBO
 
+[Document18]
+DocumentPath=urbanturbine_rev5_gerbers.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document19]
+DocumentPath=urbanturbine_rev5_drill.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for UrbanTurbinePCB\Design Rule Check - urbanturbine_rev3.html
 DItemRevisionGUID=
@@ -482,6 +516,90 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine_rev5.TXT
 DItemRevisionGUID=
 
+[GeneratedDocument40]
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine_rev5a.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine_rev5a.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine_rev5a.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine_rev5a.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine_rev5a.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine_rev5a.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine_rev5a.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine_rev5a.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine_rev5a.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine_rev5a.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine_rev5a.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine_rev5a.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine_rev5a.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine_rev5a.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine_rev5a.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine_rev5a.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine_rev5a.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine_rev5a.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine_rev5a.REP
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine_rev5a.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for UrbanTurbinePCB\urbanturbine_rev5a.TXT
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -495,7 +613,7 @@ ConfigurationType=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=SEC30CDA7ABC8C4
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -601,7 +719,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=SEC30CDA7ABC8C4
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -669,11 +787,17 @@ OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=PDF3D MBA
+OutputName11=PDF3D MBA
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=SEC30CDA7ABC8C4
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -695,7 +819,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=SEC30CDA7ABC8C4
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=NC Drill
 OutputName1=NC Drill Files
@@ -738,7 +862,39 @@ OutputName7=Drill Drawing/Guides
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.95|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration7_Name1=ForceUpdateSettings
+Configuration7_Item1=False
+Configuration7_Name2=OutputConfigurationParameter1
+Configuration7_Item2=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
+Configuration7_Name3=OutputConfigurationParameter2
+Configuration7_Item3=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Drill Drawing For (Top Layer - Bottom Layer)|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration7_Name4=OutputConfigurationParameter3
+Configuration7_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=DrillDrawing|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration7_Name5=OutputConfigurationParameter4
+Configuration7_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration7_Name6=OutputConfigurationParameter5
+Configuration7_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical7|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration7_Name7=OutputConfigurationParameter6
+Configuration7_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration7_Name8=OutputConfigurationParameter7
+Configuration7_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration7_Name9=OutputConfigurationParameter8
+Configuration7_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical16|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration7_Name10=OutputConfigurationParameter9
+Configuration7_Item10=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=1|Mirror=False|Name=Drill Guide For (Top Layer - Bottom Layer)|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration7_Name11=OutputConfigurationParameter10
+Configuration7_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=DrillGuide|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration7_Name12=OutputConfigurationParameter11
+Configuration7_Item12=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration7_Name13=OutputConfigurationParameter12
+Configuration7_Item13=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical7|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration7_Name14=OutputConfigurationParameter13
+Configuration7_Item14=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration7_Name15=OutputConfigurationParameter14
+Configuration7_Item15=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration7_Name16=OutputConfigurationParameter15
+Configuration7_Item16=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical16|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
 OutputType8=CompositeDrill
 OutputName8=Composite Drill Drawing
 OutputDocumentPath8=
@@ -775,7 +931,7 @@ Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=SEC30CDA7ABC8C4
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -812,7 +968,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=SEC30CDA7ABC8C4
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -992,7 +1148,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=SEC30CDA7ABC8C4
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Vault's components states check
@@ -1036,7 +1192,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=SEC30CDA7ABC8C4
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1083,11 +1239,21 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=MBAExportPARASOLID
+OutputName10=Export PARASOLID
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=MBAExportSTEP
+OutputName11=Export STEP
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=SEC30CDA7ABC8C4
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1213,6 +1379,8 @@ Type114=1
 Type115=1
 Type116=1
 Type117=1
+Type118=1
+Type119=1
 
 [Difference Levels]
 Type1=1
@@ -1281,6 +1449,8 @@ Type63=1
 Type64=1
 Type65=1
 Type66=1
+Type67=1
+Type68=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1289,33 +1459,33 @@ Type3=2
 Type4=1
 Type5=2
 Type6=2
-Type7=1
+Type7=0
 Type8=1
 Type9=1
 Type10=1
 Type11=2
-Type12=2
-Type13=2
+Type12=0
+Type13=0
 Type14=1
 Type15=1
 Type16=1
 Type17=1
 Type18=1
 Type19=1
-Type20=1
-Type21=1
-Type22=1
-Type23=1
+Type20=0
+Type21=0
+Type22=0
+Type23=0
 Type24=1
 Type25=2
-Type26=2
+Type26=0
 Type27=2
 Type28=1
 Type29=1
 Type30=1
 Type31=1
 Type32=2
-Type33=2
+Type33=0
 Type34=2
 Type35=1
 Type36=2
@@ -1326,15 +1496,15 @@ Type40=2
 Type41=0
 Type42=2
 Type43=1
-Type44=1
-Type45=2
-Type46=1
-Type47=2
-Type48=2
-Type49=1
+Type44=0
+Type45=0
+Type46=0
+Type47=0
+Type48=0
+Type49=0
 Type50=2
-Type51=1
-Type52=1
+Type51=0
+Type52=0
 Type53=1
 Type54=1
 Type55=1
@@ -1342,10 +1512,10 @@ Type56=2
 Type57=1
 Type58=1
 Type59=2
-Type60=1
-Type61=2
-Type62=2
-Type63=1
+Type60=0
+Type61=0
+Type62=0
+Type63=0
 Type64=0
 Type65=2
 Type66=3
@@ -1383,7 +1553,7 @@ Type97=2
 Type98=0
 Type99=1
 Type100=2
-Type101=1
+Type101=0
 Type102=2
 Type103=2
 Type104=1
@@ -1428,6 +1598,7 @@ L17=WNNNNNNNWNNNWWWWN
 [Annotate]
 SortOrder=1
 SortLocation=0
+ReplaceSubparts=0
 MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
@@ -1448,6 +1619,7 @@ NetClassSeparateForBusSections=0
 [LibraryUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
+UpdateToLatestRevision=1
 PartTypes=0
 FullReplace=1
 UpdateDesignatorLock=1
@@ -1466,6 +1638,7 @@ UpdateCurrentModels=1
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
+UpdateToLatestRevision=1
 PartTypes=0
 
 [Comparison Options]
