@@ -1,0 +1,6 @@
+- ordered wrong mosfet for Q2 -> shorted it for now
+- not enough space for headers -> need to space out for future revision
+- capacitor footprints wrong for electrolytics -> update for future revision
+- ground connection for voltage inputs
+- add a button for redundancy for next revision
+- move p7 so it doesn't interfere with wire in hall effect sensor
