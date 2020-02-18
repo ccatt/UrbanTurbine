@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: urbanturbine_rev3.PcbDoc   2020-01-17  2:41:31 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : urbanturbine_rev3.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.7mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T2      28mil (0.711mm)                                           Round             15        PTH        0.00inch (0.00mm)
+T3      32mil (0.8mm)                                             Round             3         PTH        0.00inch (0.00mm)
+T4      32mil (0.813mm)                                           Round             28        PTH        0.00inch (0.00mm)
+T5      35mil (0.9mm)                                             Round             34        PTH        0.00inch (0.00mm)
+T6      40mil (1.016mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T7      59mil (1.5mm)                                             Round             12        PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              102
+
+Total Processing Time (hh:mm:ss) : 00:00:00
