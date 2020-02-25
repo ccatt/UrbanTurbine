@@ -4,3 +4,5 @@
 - ground connection for voltage inputs
 - add a button for redundancy for next revision
 - move p7 so it doesn't interfere with wire in hall effect sensor
+- incorporate a connector for LED strips
+- through-hole crystal resonator
